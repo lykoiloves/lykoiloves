@@ -1,4 +1,4 @@
-[View my profile card](https://lykoiloves.github.io/Github-Landing-Page-Template/index.html)
+[View my profile card](https://lykoiloves.github.io/Github-Landing-Page-Template/github.html)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
